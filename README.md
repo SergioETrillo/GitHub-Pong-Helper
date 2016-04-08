@@ -21,7 +21,7 @@ https mode is used by default
 
 ###Examples
 ```
-./gitpong.rb tigretoncio test** *# => gitpongs with user 'tigretoncio' on repo 'test' in https*
+./gitpong.rb tigretoncio test    # => gitpongs with user 'tigretoncio' on repo 'test' in https
 ./gitpong.rb tigretoncio test https  #=> same as above
 ./gitpong.rb BillGates goWindows ssh  # => gitpongs with user 'BillGates' on repo 'goWindows' using ssh
 ./gitpong.rb  #=> prints this help message"
