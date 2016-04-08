@@ -2,7 +2,7 @@
 
 require 'open3'
 
-HELP = "\nusage:\n gitpong <partner_ID> <Github_repo_name> <mode>
+HELP = "\nusage:\n ./gitpong.rb <partner_ID> <Github_repo_name> <mode>
 Description of arguments:
 partner_ID: Github user name
 repo: Github repo name common to the session
