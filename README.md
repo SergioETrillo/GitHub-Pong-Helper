@@ -14,9 +14,9 @@ more details about GitHub Pong.
 ```
 ### Description of arguments
 
-*partner_ID*: is the Github user name of your partner
-*repo*: Common Github repository name that both partners will have in their GitHub accounts
-*mode*: protocol to be used: https (default) or ssh.  This is an optional parameter, if not used
++*partner_ID*: is the Github user name of your partner
++*repo*: Common Github repository name that both partners will have in their GitHub accounts
++*mode*: protocol to be used: https (default) or ssh.  This is an optional parameter, if not used
 https mode is used by default
 
 ###Examples
